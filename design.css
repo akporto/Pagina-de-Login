@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+}
+
+#imagemprincipal{
+    width: 500px;
+   
+}
+
+#formulario{
+    margin-top: 70px;
+}
+
+#link{
+    text-decoration: none;
+    color: rgb(7, 7, 7);
+}
+
+
+
